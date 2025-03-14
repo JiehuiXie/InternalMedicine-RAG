@@ -1,6 +1,6 @@
 # 基于 LightRAG 的内科治疗问答系统（InternalMedicine-RAG）
 
-![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2743%27%20height=%2710%27/%3e)[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square)](https://www.python.org/)   [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0%2B-red)](https://pytorch.org/)   [![LightRAG](https://img.shields.io/badge/LightRAG-v1.2.0-green)](https://github.com/yourusername/lightrag)   [![License](https://img.shields.io/badge/License-MIT%202.0-green?style=flat-square)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square)](https://www.python.org/)   [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0%2B-red)](https://pytorch.org/)   [![LightRAG](https://img.shields.io/badge/LightRAG-v1.2.0-green)](https://github.com/yourusername/lightrag)   [![License](https://img.shields.io/badge/License-MIT%202.0-green?style=flat-square)](LICENSE)
 
 ## 🌟 核心亮点
 
