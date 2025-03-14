@@ -83,7 +83,7 @@ python examples\lightrag_zhipu_demo.py
               "description": "阿莫西林用于根除慢性胃炎中的幽门螺杆菌。<SEP>阿莫西林用于治疗慢性胃炎，对抗幽门螺杆菌感染。",
               "keywords": "治疗方法",
               "source_id": "chunk-d57db8d7816a507dfd1a8e6c463e735d<SEP>chunk-900a2915b6c340be3738fbe23817c025"
-          
+         }
   ]           
   ```
   
