@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square)](https://www.python.org/)   [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0%2B-red)](https://pytorch.org/)   [![LightRAG](https://img.shields.io/badge/LightRAG-v1.2.0-green)](https://github.com/yourusername/lightrag)   [![License](https://img.shields.io/badge/License-MIT%202.0-green?style=flat-square)](LICENSE)
 
-本项目借助GLM4 API、本地ollama部署bge-embedding模型、reranker模型完成整个项目pipeline。通过提示词工程（incontext-learning、cot）优化针对内科医学任务的NER效果。并对reranker模型进行微调提升重排序效果，显著增强知识图谱构建质量和检索生成质量。
+本项目借助GLM4 API、本地ollama部署bge-embedding模型、reranker模型完成整个项目pipeline。通过提示词工程（ICL,COT）优化针对内科医学任务的NER效果。并对reranker模型进行微调提升重排序效果，显著增强知识图谱构建质量和检索生成质量。
 
 ## 🌟 核心亮点
 
